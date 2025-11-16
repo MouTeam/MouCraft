@@ -1,0 +1,70 @@
+{
+  "branches": [
+    "main",
+    { "name": "beta", "prerelease": true }
+  ],
+  "plugins": [
+    [
+      "@semantic-release/commit-analyzer",
+      {
+        "preset": "conventionalCommits",
+        "releaseRules": [
+          { "type": "breaking", "release": "major" },
+          { "type": "build", "release": false },
+          { "type": "ci", "release": false },
+          { "type": "chore", "release": false },
+          { "type": "doc", "release": false },
+          { "type": "docs", "release": false },
+          { "type": "feat", "release": "minor" },
+          { "type": "feature", "release": "minor" },
+          { "type": "fix", "release": "patch" },
+          { "type": "perf", "release": "patch" },
+          { "type": "refactor", "release": false },
+          { "type": "style", "release": false },
+          { "type": "test", "release": false }
+        ]
+      }
+    ],
+    [
+      "@semantic-release/release-notes-generator",
+      {
+        "preset": "conventionalCommits",
+        "presetConfig": {
+          "types": [
+            { "type": "breaking", "section": "💥 BREAKING CHANGES", "hidden": false },
+            { "type": "build", "section": "⚙️ Build System", "hidden": false },
+            { "type": "chore", "section": "🔧 Chores", "hidden": false },
+            { "type": "ci", "section": "👷 Continuous Integration", "hidden": false },
+            { "type": "doc", "section": "📚 Documentation", "hidden": false },
+            { "type": "docs", "section": "📚 Documentation", "hidden": false },
+            { "type": "feat", "section": "✨ Features", "hidden": false },
+            { "type": "feature", "section": "✨ Features", "hidden": false },
+            { "type": "fix", "section": "🐛 Bug Fixes", "hidden": false },
+            { "type": "perf", "section": "⚡️ Performance Improvements", "hidden": false },
+            { "type": "refactor", "section": "🔨 Code Refactoring", "hidden": false },
+            { "type": "revert", "section": "⏪️ Reverts", "hidden": false },
+            { "type": "style", "section": "🎨 Styles", "hidden": false },
+            { "type": "test", "section": "✅ Tests", "hidden": false }
+          ]
+        }
+      }
+    ],
+    "@semantic-release/changelog",
+    [
+      "@semantic-release/git",
+      {
+        "message": "chore(release): ${nextRelease.version}\n\n${nextRelease.notes}"
+      }
+    ],
+    [
+      "@semantic-release/github",
+      {
+        "assets": [
+          { "path": "./build/MouCraft-curseforge-server.zip", "name": "MouCraft-curseforge-server-${nextRelease.version}.zip" },
+          { "path": "./build/MouCraft-curseforge-client.zip", "name": "MouCraft-curseforge-client-${nextRelease.version}.zip" },
+          { "path": "./build/MouCraft-modrinth.mrpack", "name": "MouCraft-modrinth-${nextRelease.version}.mrpack" }
+        ]
+      }
+    ]
+  ]
+}

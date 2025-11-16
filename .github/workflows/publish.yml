@@ -1,0 +1,46 @@
+name: Publish
+
+on:
+  release:
+    types: [ published ]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Debug release info
+        run: |
+          echo "Release info:"
+          echo '${{ toJson(github.event.release) }}' | jq
+
+      - name: Download Modrinth asset
+        run: |
+          echo '${{ toJson(github.event.release.assets) }}' \
+            | jq -r '.[] | select(.name | endswith(".mrpack")) | .browser_download_url' \
+            | xargs -n 1 curl -L -O
+
+      - name: Download CurseForge assets
+        run: |
+          echo '${{ toJson(github.event.release.assets) }}' \
+            | jq -r '.[] | select(.name | test("MouCraft-curseforge-.*\\.zip$")) | .browser_download_url' \
+            | xargs -n 1 curl -L -O
+
+      - name: Publish pack
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          loaders: neoforge
+          name: "${{ github.event.release.name }}"
+          version: "${{ github.event.release.tag_name }}"
+          game-versions: 1.21.1
+
+          modrinth-id: 'SYLaBkiA'
+          modrinth-token: "${{ secrets.MODRINTH_TOKEN }}"
+          modrinth-files: MouCraft-modrinth-*.mrpack
+
+          curseforge-id: 1283043
+          curseforge-token: "${{ secrets.CURSEFORGE_TOKEN }}"
+          curseforge-files: |
+            MouCraft-curseforge-client-*.zip
+            MouCraft-curseforge-server-*.zip
