@@ -1,0 +1,13 @@
+name = "BankSystem"
+filename = "banksystem-neoforge-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eHxpKs8V/versions/wTrOYuk8/banksystem-neoforge-1.4.1.jar"
+hash-format = "sha512"
+hash = "da0c090a7ee313ae84512333de5943f1c5956b74a2754e9c066ef23cc62238e3064d090f85dd49dd5824dff1aa3d2271341895a9a1106e068f56538d697c5c74"
+
+[update]
+[update.modrinth]
+mod-id = "eHxpKs8V"
+version = "wTrOYuk8"

@@ -1,0 +1,13 @@
+name = "Gigeresque"
+filename = "gigeresque-neoforge-1.21.1-0.8.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2kXK3iBI/versions/XHeKEYXh/gigeresque-neoforge-1.21.1-0.8.16.jar"
+hash-format = "sha512"
+hash = "606f3d5a03ab7a0b1909212bad3d06ed34cf306240f98ebe6ccc4650960dc707eb3f62661f3937081159b381b3b1713a9f55f03465b8f422da139ecb90a47392"
+
+[update]
+[update.modrinth]
+mod-id = "2kXK3iBI"
+version = "XHeKEYXh"

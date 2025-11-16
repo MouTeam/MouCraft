@@ -1,0 +1,13 @@
+name = "Butchery"
+filename = "butcher-3.5.6-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6YfOmC9t/versions/3Lle7eWb/butcher-3.5.6-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "ac41c3badeaaf2ae3714595a24b4605efaf5bab876d79da726b3b59035e17343e53462adc0dccb359042cfa35ee3f8acbf4ffb4d28673b739509eb95a7d908eb"
+
+[update]
+[update.modrinth]
+mod-id = "6YfOmC9t"
+version = "3Lle7eWb"

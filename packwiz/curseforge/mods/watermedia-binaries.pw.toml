@@ -1,0 +1,13 @@
+name = "WATERMeDIA: Binaries sources"
+filename = "waterbinaries-3.0.0-alpha.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d9be1fb6527242b195f7c13eec610fb1a840427"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7076568
+project-id = 1029438

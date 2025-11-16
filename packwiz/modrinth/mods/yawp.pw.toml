@@ -1,0 +1,13 @@
+name = "Yet Another World Protector"
+filename = "yawp-1.21.1-neoforge-0.6.2-beta1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/py6EMmAJ/versions/iG1EomeZ/yawp-1.21.1-neoforge-0.6.2-beta1.jar"
+hash-format = "sha512"
+hash = "229c467984c943eadc78ff2ec2568b82b810666fd083569717cf41c5e952b3a0c13f3a5f49fcc5663a25ffd232613c4b8d92e64291ad4a4b4f4dd1becfa96101"
+
+[update]
+[update.modrinth]
+mod-id = "py6EMmAJ"
+version = "iG1EomeZ"

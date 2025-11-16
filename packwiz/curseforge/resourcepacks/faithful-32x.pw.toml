@@ -1,0 +1,13 @@
+name = "Faithful 32x"
+filename = "Faithful 32x - 1.21.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d839f6da61aec4da2b563abbbafff1916b78e168"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6408994
+project-id = 436482

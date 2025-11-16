@@ -1,0 +1,13 @@
+name = "Easy NPC"
+filename = "easy_npc_bundle-6.0.21-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CgGEe1h3/versions/aCvvyvyj/easy_npc_bundle-6.0.21-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "650f9b8ed5c4ceb7b2d99d45148be1ba8b02fdd856964c08f1296711174e25283448dc1c69b6031852ce88847a3e5bebd3136cfd0412d4ef7d85432f8e689b65"
+
+[update]
+[update.modrinth]
+mod-id = "CgGEe1h3"
+version = "aCvvyvyj"
