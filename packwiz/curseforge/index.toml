@@ -340,11 +340,6 @@ hash = "3f47b68f174a4719ef9b099ea12732a4cb840be03635e91dd6c24515f4cf6814"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
-hash = "e8562dd1a88ce84401100e45dbe9edcb8a04b67922718832acb1d1cc6e759b65"
-metafile = true
-
-[[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
 hash = "0dbb09999d85aa27cae3b923827245ad2e9559bb46f69736dde8f0377fd1c7e2"
 metafile = true
