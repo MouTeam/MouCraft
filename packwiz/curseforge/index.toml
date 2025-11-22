@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "02b15a704afe8e8eac4436a1c8c1de8a997294bae0ebe579a9e3fb0e1f023119"
+hash = "139c50bfb89efec9c4853da46c3946623b84ee77cbc0d494a5a44653434d2f86"
 metafile = true
 
 [[files]]
@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
+hash = "3ac8c76f4cb2f1200d60fa2e74108d9cb9355346ddb8a4a735134dfac7b77136"
 metafile = true
 
 [[files]]
