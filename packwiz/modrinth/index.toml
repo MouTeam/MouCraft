@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "feea72815b726b53b4ce085cddcefd3f6b10995609bb7a37f0557d0a7ec31941"
+
+[[files]]
 file = "config/defaultoptions/extra/config/butcher.toml"
 hash = "b31b1087caecad27e251314d28a87c8b728a8d5ecd49e36d8f94ebeedf2715fd"
 
@@ -282,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "b734fbbf4ab5748cf4928ae3524063bdf283137da84a05b2f8812281df9aae5f"
 metafile = true
 
 [[files]]
