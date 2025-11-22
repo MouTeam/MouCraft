@@ -310,8 +310,8 @@ hash = "0d3243ad904fda3bfbae8943cecbb29deb7f8e756d008d15b12a6a3f3f20b652"
 metafile = true
 
 [[files]]
-file = "mods/camera-mod.pw.toml"
-hash = "c05be737eb2e1fc7e611694f1295f070fc7fd1088cfae396aa1d3c884fc9f38e"
+file = "mods/camerapture.pw.toml"
+hash = "8481487e5209ce28572d7572c7955a8fcc805362631e97e623281200f59dcaa2"
 metafile = true
 
 [[files]]
