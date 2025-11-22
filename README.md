@@ -18,3 +18,26 @@
 [![CurseForge Version](https://img.shields.io/curseforge/v/1283043?logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/moucraft)
 [![CurseForge Downloads](https://img.shields.io/curseforge/dt/1283043?logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/moucraft)
 [![CurseForge Game Versions](https://img.shields.io/curseforge/game-versions/1283043?logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/moucraft)
+
+## Dev
+
+### Local semantic-release
+
+```shell
+docker run --user 1000:1000 --rm -it \
+  -v "$(pwd):/application" \
+  -w /application \
+  -v $SSH_AUTH_SOCK:/ssh-agent \
+  -e SSH_AUTH_SOCK=/ssh-agent \
+  node:lts bash
+  
+npx --yes \
+    --package semantic-release \
+    --package @semantic-release/changelog \
+    --package @semantic-release/git \
+    --package @semantic-release/commit-analyzer \
+    --package @semantic-release/exec \
+    --package conventional-changelog-conventionalcommits \
+    semantic-release --dry-run
+```
+
