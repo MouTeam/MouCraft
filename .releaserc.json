@@ -53,12 +53,21 @@
     [
       "@semantic-release/exec",
       {
-        "generateNotesCmd": "./scripts/update-packwiz-version.sh ${nextRelease.version}"
+        "prepareCmd": "./scripts/update-packwiz-version.sh ${nextRelease.version} && ./scripts/build-packwiz.sh"
       }
     ],
     [
       "@semantic-release/git",
       {
+        "assets": [
+          "packwiz/curseforge/pack.toml",
+          "packwiz/curseforge/index.toml",
+          "packwiz/curseforge/config/bcc-common.toml",
+          "packwiz/modrinth/pack.toml",
+          "packwiz/modrinth/index.toml",
+          "packwiz/modrinth/config/bcc-common.toml",
+          "CHANGELOG.md"
+        ],
         "message": "chore(release): ${nextRelease.version}\n\n${nextRelease.notes}"
       }
     ],

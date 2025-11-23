@@ -3,13 +3,14 @@ set -euo pipefail
 
 # Script to update the version field in Packwiz pack.toml files
 # and modpackVersion in bcc-common.toml configs.
-# Usage: ./update-packwiz-version.sh 1.2.3
+# Also refreshes the Packwiz indexes.
+# Usage: ./update-packwiz-version.sh v1.2.3
 
 VERSION="${1:-}"
 
 if [ -z "$VERSION" ]; then
   echo "❌ Error: You must provide a version argument. Example:"
-  echo "   ./update-packwiz-version.sh 1.2.3"
+  echo "   ./update-packwiz-version.sh v1.2.3"
   exit 1
 fi
 
@@ -44,3 +45,21 @@ update_bcc "packwiz/curseforge/config/bcc-common.toml"
 update_bcc "packwiz/modrinth/config/bcc-common.toml"
 
 echo "🎉 All version fields updated."
+
+# --- Refresh Packwiz indexes ---
+if ! command -v packwiz &> /dev/null; then
+  echo "❌ Packwiz executable not found in PATH. Please install it first."
+  exit 1
+fi
+
+echo "🔄 Refreshing Packwiz index for CurseForge..."
+pushd packwiz/curseforge
+packwiz refresh
+popd
+
+echo "🔄 Refreshing Packwiz index for Modrinth..."
+pushd packwiz/modrinth
+packwiz refresh
+popd
+
+echo "🎉 All version fields updated and Packwiz indexes refreshed."
