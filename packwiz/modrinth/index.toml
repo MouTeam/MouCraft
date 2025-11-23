@@ -26,11 +26,11 @@ hash = "1ff30421c28994ded3602d138184e3798c94ff08e13ffca59a87a901c89015cc"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "7b0307718e5a3b5dac67b6db91f09dec3933876ece239f075f163d05af8d87c8"
+hash = "fa37c29a0833d2fbd47fae51b5ebeec0e17b10ccd6a596c41d8673252ef339e4"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "7da8082bc26faf0e9a28192e92dddcb6d10e6e1e8fbb218cb6e315dd772eed4a"
+hash = "d5a8b5412fdd8ab31875faf7ff1a78f525b5c8bb4001114a6fc66c04e655e95c"
 
 [[files]]
 file = "emotes/Basket Head.emotecraft"
