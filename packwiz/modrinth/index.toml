@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "e14620be14ef5e546335a8f865ecaf807af1b23357ef028b597118062cafa9e3"
+hash = "eb18077ff7778791930eb5817b933cdb0181f14b99c76f6d2d82a308945999a6"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "4925021964dc745510d669181aa79614363618950f0a597e30447602a555c05e"
+hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "082a37f089430e72bb56ec9ab1e6577796684727d706630118508e15b0c29c77"
+hash = "ed5a88a8d97fe38cca25a42aa1ffcaf51f8f84535f872a9446eff96b92b5722a"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "79163e41833369161b34e0d8f734c98bf6a28264c002021c0037802afb0384c8"
+hash = "4d80daa8eb0ddcda79a42749ad4539de6cf00df3b8aa0fb12ad8a6601125b388"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "847b1ef4cab7e5310e058ec2118f4e257327252c230bea328afacac3b1ddd9ad"
+hash = "c67d73440c55cc47a47ac8987da9cd01de3ad2a8f1480a304355c3e21092d2e4"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "cd5253e9dad852c7d78c50af74eb61c32a9748bddb9308a167609e46a715724e"
+hash = "1c409471400cd68f5105d87fa1fdf2ae71c1ad00934a2a306abffad60d1bf86f"
 metafile = true
 
 [[files]]
@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
+hash = "09162fdcca41f55e16be2b2101239f1d1b138732c3b3bc2b6d70beaca99cc000"
 metafile = true
 
 [[files]]
@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "1ccc10d344325d102261776a8d8ddcbe18539d88ffab204206e2f477b8599e9b"
+hash = "78111cf6df06ca4aacdb1fde58767ff5d8b48bca003e4f853df019377abe382d"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "6f978589d682f22a6a9e62a08964400b8a1649cdf6e2b86c6bc6fe2cb01fd5ba"
+hash = "34af73fbc06558118a046d6c4c26a555337f5e971ba59b42ca13471c57127f1f"
 metafile = true
 
 [[files]]

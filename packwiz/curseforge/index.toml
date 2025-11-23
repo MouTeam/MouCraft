@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "c6519ffaf804c8774e8c45adfb4c63c8c7dc92eac0d2135e23ac040e5dffba89"
+hash = "2365220deb4cf03f5b6bab7e52fe61ff4f3532f37c2e9ed0e78a0855ef3613ac"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "40ef901fad34e97d592aa27990328b3cfc3864fdac551ec654eee203fb084897"
+hash = "6a5638b1888c9c882ea5cd45bc93aab958a50fd302cb7e9af3c807a2b46c9497"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "45b4d930d47c8996f308c54834f83625f6ca2431da8788cc66db7a26b48374d3"
+hash = "6561298100cdcaed1f9f09d3a5f49fe6287b66232b559a86ac5abab1f6352013"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "5d9cb591fbeb1746bb048fb18e1b2f36e533147e52db61907cf3d280a52ef162"
+hash = "6375f1f6491f73a8bd591efe37ae6c823a701ac60f1deb45b3c02d38d3871cf9"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "369f5d089ff1a0e5ecb438b5726fd176f0a3db4070052f7b640ef35947559d7f"
+hash = "3e5216debaf7cdc6e209f7cba91d2b3bf098f8fa78cdfbbb4a8429d625c03953"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "20084e6c096135548dbceb71e6adb7ed2cdaa66dc4e3e2e3bc2055091e109bbe"
+hash = "f77b8754dd0575f002a7bba9f425633d6a25f01532e1bd68e945087b41f33d76"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "1ccc10d344325d102261776a8d8ddcbe18539d88ffab204206e2f477b8599e9b"
+hash = "78111cf6df06ca4aacdb1fde58767ff5d8b48bca003e4f853df019377abe382d"
 metafile = true
 
 [[files]]
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e579a0d73f6b5fa9e5662734b2ec5bb475e98c11f901bc380a2487f7c5e6391e"
+hash = "aaf41bf7572ccbd104cf8a87bb778c95095f825d8bcb4a1855dd4705954c3547"
 metafile = true
 
 [[files]]
