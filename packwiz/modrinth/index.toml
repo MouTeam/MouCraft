@@ -639,6 +639,11 @@ hash = "34efd64966bd1b464f1dce8cfae67ba04d1d7ee9f80c7f29ce667b5159574c40"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "5113f78787651e11f104807a95760c4af97288c3602ca11d65205387a0886519"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
 metafile = true
@@ -801,6 +806,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
