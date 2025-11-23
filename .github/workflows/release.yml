@@ -7,11 +7,7 @@ on:
       - beta
 
 jobs:
-  build:
-    uses: ./.github/workflows/build.yml
-
   release:
-    needs: build
     runs-on: ubuntu-latest
 
     steps:
@@ -19,25 +15,31 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: actions/download-artifact@v6
+      - uses: actions/setup-go@v6
         with:
-          name: curseforge
-          path: build/
+          go-version: '1.25'
 
-      - uses: actions/download-artifact@v6
-        with:
-          name: modrinth
-          path: build/
+      - name: Install Packwiz
+        run: |
+          go install github.com/packwiz/packwiz@latest
+          echo "$HOME/go/bin" >> $GITHUB_PATH
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "lts/*"
 
-      - name: Release
+      - name: Semantic Release
         env:
           GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
         run: |
+          if [[ "${GITHUB_REF##*/}" != "main" && "${GITHUB_REF##*/}" != "beta" ]]; then
+            echo "⚠️ Not main/beta branch, running semantic-release in dry-run mode"
+            DRY_RUN="--dry-run"
+          else
+            DRY_RUN=""
+          fi
+
           npx --yes \
             --package semantic-release \
             --package @semantic-release/changelog \
@@ -45,4 +47,4 @@ jobs:
             --package @semantic-release/commit-analyzer \
             --package @semantic-release/exec \
             --package conventional-changelog-conventionalcommits \
-            semantic-release
+            semantic-release ${DRY_RUN}
