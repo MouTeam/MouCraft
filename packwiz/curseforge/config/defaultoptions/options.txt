@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","file/Faithful 32x - 1.21.1.zip","file/FreshAnimations_v1.10.1.zip"]
+resourcePacks:["vanilla","mod_resources","file/Faithful 32x - 1.21.1.zip","mod/towntalk:respack","moonlight:merged_pack","file/FreshAnimations_v1.10.2.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
