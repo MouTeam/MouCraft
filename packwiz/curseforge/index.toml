@@ -264,6 +264,11 @@ hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "937d795eced4de5ece932706c3de27d9664d8c7d5acc6692169baa763ce6dc24"
 metafile = true
@@ -311,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "ff5879f6ad48b7a48c391054e26ef4d70b96f7339bff3bec28877e0ab919f998"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "bb9412b0160a83a06da8c80d5a802630dbb1a64f2961005043c4caa4e454200f"
 metafile = true
 
 [[files]]
@@ -779,6 +789,11 @@ hash = "803cee33e53713a18f631ec6255c322815988ef4b590ee5a1187f1402111d1f9"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "5f217056eed94ecf5037f7bfb1555b26a76815cb8930fe5b4207799a1c6a69fa"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
@@ -789,13 +804,28 @@ hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
+metafile = true
+
+[[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "459540ac1dad30fd535db43b1a5c7397a1cfdb30f5ab0973523de805d6b166e9"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+metafile = true
+
+[[files]]
 file = "mods/prometheus-exporter.pw.toml"
 hash = "2356d493ae2ab9cd519462f9394de539b216d36a782d5433e65e929ea7927947"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "804736be3ded2a6f89f44522b88d82636209ed203c234ea34b6d6ffdd9ecee54"
 metafile = true
 
 [[files]]
