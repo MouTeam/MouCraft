@@ -790,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/playerrevive.pw.toml"
-hash = "f4cb8f77c11deda2facac225c4cadd3833b80bee6fb4fe92cb1638c66f9f998e"
+hash = "d5e73af5c1b7e710b5977365ecc7f0064e55d49f783f841edabdb15020e98ec4"
 metafile = true
 
 [[files]]
@@ -875,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "55c8056ba1454acf25252ec1c7d3a33bb59c9bd8273f28f6e0402e542073ce16"
+hash = "cba519b3e00eb2e03b3532664d1d99de5a0dd306c6ce4b49dcd462a58d4c187b"
 metafile = true
 
 [[files]]
@@ -930,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "735bae0e4736022f33f59f85fae837549d19992b387fe38d92af613bbe101eea"
+hash = "12d9283f643e9b8f85368fccf82f328c471c043fcf06fe08dea6c034be3b0c22"
 metafile = true
 
 [[files]]
