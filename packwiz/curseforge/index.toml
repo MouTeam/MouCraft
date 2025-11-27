@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "713717b0350a9be2b92586f91d57645b1796bfac3cc53c98570fc4558f79eabd"
+hash = "e31aebea2649cad495197a6736570f59b286d75c7a08c06a8a33fd84abd94817"
 metafile = true
 
 [[files]]
@@ -710,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "3b62c81efdf4b3500b119d790ee57de120d41cbb40183860252ea5fe0fd79d67"
+hash = "ed2fb750e3b70e31756408d1d6b6007c6fb39e80091cbaa0e60117a434821473"
 metafile = true
 
 [[files]]
