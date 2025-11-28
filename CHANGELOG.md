@@ -1,3 +1,28 @@
+## [1.2.0](https://github.com/MouTeam/MouCraft/compare/v1.1.0...v1.2.0) (2025-11-28)
+
+### 🔧 Chores
+
+* **mods:** update createaddition mod ([499b6de](https://github.com/MouTeam/MouCraft/commit/499b6de14297be38f270c672bb6039d91b578fa0))
+* **mods:** update jei, just-enough-effect-descriptions-jeed ([a03a112](https://github.com/MouTeam/MouCraft/commit/a03a1120644277316cc0424d5eb8890581466b1c))
+* **mods:** update Macaw's mods ([7ee06bc](https://github.com/MouTeam/MouCraft/commit/7ee06bcc7c62e1d993c12b36722aff75cb8c85e8))
+* **mods:** update minecolonies from 1.1.1199 to 1.1.1213 ([71b5d3a](https://github.com/MouTeam/MouCraft/commit/71b5d3a1fc7b1f3814572a098b28ee786f8dc50b))
+* **mods:** update mods ([3bde49f](https://github.com/MouTeam/MouCraft/commit/3bde49f1ffde8cd44b14b20fb96c7b64cf0404af))
+* **mods:** update waystones, playerrevive, sophisticated-storage ([4bfe2fc](https://github.com/MouTeam/MouCraft/commit/4bfe2fcea19e3f5da8d781fed01a8ead8d729660))
+
+### ✨ Features
+
+* **mods:** add better-combat and playeranimator mods ([731017b](https://github.com/MouTeam/MouCraft/commit/731017b94484fe0a43dc8c034b5921e5557fd048))
+* **mods:** add pick-up-notifier, overflowing-bars, attributefix and dependencies ([89f3860](https://github.com/MouTeam/MouCraft/commit/89f3860dda7503ad222a90582972fef41527f5ea))
+* **mods:** add spice-of-life-onion and vanillacookbook mod ([99d02fb](https://github.com/MouTeam/MouCraft/commit/99d02fbfe51b04d053ad98a42ac55b3659eb112b))
+
+### 🐛 Bug Fixes
+
+* **workflow:** fix escaping char on publish workflow ([00dcdea](https://github.com/MouTeam/MouCraft/commit/00dcdeadcaf61b436b109d8672dadf2d9a4a4208))
+
+### 🔨 Code Refactoring
+
+* **build:** use modrinth for corpsecurioscompat on modrinth version ([5e0db84](https://github.com/MouTeam/MouCraft/commit/5e0db840a8fa5fe9c9b6d162b3ce4f33df7b945f))
+
 ## [1.1.0](https://github.com/MouTeam/MouCraft/compare/v1.0.0...v1.1.0) (2025-11-23)
 
 ### 🔧 Chores
