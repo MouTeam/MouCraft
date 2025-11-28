@@ -919,6 +919,11 @@ hash = "5995decc8738d7ddccec218dfa1ed95db9eca5bb64c98fd2cede8bf9bbc837c2"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "72eceb2eb569b1a51fd05d58a40580366deda0a83f2a7e560de7a1a316b11066"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
 hash = "e2615312dcf7aaa1a831a76a3bd215dd37c03bf7ba48a7aeecc5f886c5c62888"
 metafile = true
@@ -941,6 +946,11 @@ metafile = true
 [[files]]
 file = "mods/towntalk.pw.toml"
 hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
+metafile = true
+
+[[files]]
+file = "mods/vanillacookbook.pw.toml"
+hash = "6cb2859a7ec90d75b493f6c21a57c1fe7ae79fd222dd837cf5898f50e30fe8b7"
 metafile = true
 
 [[files]]
