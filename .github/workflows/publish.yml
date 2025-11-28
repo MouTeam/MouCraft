@@ -12,19 +12,18 @@ jobs:
 
       - name: Debug release info
         run: |
-          echo "Release info:"
-          echo '${{ toJson(github.event.release) }}' | jq
+          cat << 'EOF' > release.json
+          ${{ toJson(github.event.release) }}
+          EOF
 
       - name: Download Modrinth asset
         run: |
-          echo '${{ toJson(github.event.release.assets) }}' \
-            | jq -r '.[] | select(.name | endswith(".mrpack")) | .browser_download_url' \
+          jq -r '.assets[] | select(.name | endswith(".mrpack")) | .browser_download_url' release.json \
             | xargs -n 1 curl -L -O
 
       - name: Download CurseForge assets
         run: |
-          echo '${{ toJson(github.event.release.assets) }}' \
-            | jq -r '.[] | select(.name | test("MouCraft-curseforge-.*\\.zip$")) | .browser_download_url' \
+          jq -r '.assets[] | select(.name | test("MouCraft-curseforge-.*\\.zip$")) | .browser_download_url' release.json \
             | xargs -n 1 curl -L -O
 
       - name: Publish pack
