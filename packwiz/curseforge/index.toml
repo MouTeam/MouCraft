@@ -625,12 +625,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "42f076d69602ed04a365d6d867a5610f7d347089b3f6015fb424b1ee84b5d656"
+hash = "540706ab9db0907199fcc08ac62c8f0b291f7ce5b01a90e426f0b6c76c76b51c"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "391327768eb073b6c90a75175a290cd9853499711595715ad35c008757293e5c"
+hash = "5f582ca25cdb90b1a1867d409aa222563f4c3c4ac2208062b57a7d8c6fab44e2"
 metafile = true
 
 [[files]]
