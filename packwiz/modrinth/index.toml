@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "92cb46fd4666ac728469801913aacb13ae7896f603be290476ebd23f1997f54a"
+hash = "47ca6d7fe185e6e773347e62863a49ff05c0c7b48e026a97ec6dde3e1fe1e7cc"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "0bfd51544f3b3f14e371edf38526a6f36227d660f00070adcd31b2a0db40b18e"
+hash = "437e0fa400ed17c49a4afbae3dd5ccd42ae57a0a204e4614e9a4ac0148746c35"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "1d8fce350ce2671f24579691c47bc178ee7b644751ecec5f068427058de0cd2b"
+hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "48cbc3da595efc9c3e04fb06bf9ba71861fcbd2e70dc1596a38ccb14b5179edc"
+hash = "f173c4a6f3f94464006ef63eefcfba4544f35f7d1bbbaf3d46b376d3e4be4d5b"
 metafile = true
 
 [[files]]
@@ -650,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "c9a85ef82394085adf3471b89f5b9b5fe3d8d21dcaafb12da54bd679864dc137"
+hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "09162fdcca41f55e16be2b2101239f1d1b138732c3b3bc2b6d70beaca99cc000"
+hash = "1a4a4cb11e70c5b82f3b3d2180f6055babf86a04c9a45f0d3a2e89239f44ca08"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "bf832eec9f66b0dac332038b86f75e381f3dd5186f8411781dae10a0cc7ba039"
+hash = "f18282bab18f3c6c44f0643ffa9dd166b5ed78c6b30111f8d04027eb7796640e"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "fdd3e68ff962be188ee0b96cf5082f137ecee9b419cc0d0d7ad9bae124e13e45"
+hash = "78f6a760d66709335b8bc92561589b0aba25873ef77f4cd1cdec570416ae9c6b"
 metafile = true
 
 [[files]]
@@ -930,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "e2615312dcf7aaa1a831a76a3bd215dd37c03bf7ba48a7aeecc5f886c5c62888"
+hash = "b03a9cb248cb1803775a377f455a42bcc7c876dd33b181fd446ded77a3ab0209"
 metafile = true
 
 [[files]]
