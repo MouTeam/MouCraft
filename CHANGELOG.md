@@ -1,3 +1,13 @@
+## [1.2.1](https://github.com/MouTeam/MouCraft/compare/v1.2.0...v1.2.1) (2025-12-02)
+
+### 🔧 Chores
+
+* **mods:** update mods ([4e897dd](https://github.com/MouTeam/MouCraft/commit/4e897dd1920f9f463f243116af17049d61688781))
+
+### 🐛 Bug Fixes
+
+* **mods:** fix server crash, remove create-dreams-and-desires ([c3154c2](https://github.com/MouTeam/MouCraft/commit/c3154c21c028485ef02987d2787dcdf99d613aad))
+
 ## [1.2.0](https://github.com/MouTeam/MouCraft/compare/v1.1.0...v1.2.0) (2025-11-28)
 
 ### 🔧 Chores
