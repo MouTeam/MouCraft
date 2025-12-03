@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "66563f396d03ea133ec26837a6643a20d4e819999f79330e63ab810b56a47933"
+hash = "651ac7886308b00a082f08387a4f27ca6325f8c8df3121101410c9bd33c732f5"
 metafile = true
 
 [[files]]
