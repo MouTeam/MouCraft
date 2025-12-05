@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "887accac20ee924c569f880c0ee0eee3307499062dc14199da3fb91abbfb5eea"
+hash = "75f11e3816916c9a5701f475e2169829fafdb5d11d464a3c6b83f8cb7669d814"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "83d961aa9a1808ffbd70b3b8f7cfc658e421e9c9904482bb158b30cc980d6f65"
+hash = "118c14e3ac7fa652519cb17a7be5a0be71d46a46dac9ab43bccb92b05ca7473b"
 metafile = true
 
 [[files]]
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "1b607235a295f6f86c0fc294df935c17c4d7e641e73e0ce5c649ba22a5114087"
+hash = "680d268128db6813ccccd5ca946c35e74c5591b366ba45314f64a827b87c0bd3"
 metafile = true
 
 [[files]]
