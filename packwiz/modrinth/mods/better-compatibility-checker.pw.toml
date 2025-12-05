@@ -1,13 +1,13 @@
 name = "Better Compatibility Checker"
-filename = "bcc-21.1.5+mc1.21.1.jar"
+filename = "bcc-21.1.7+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KJhXPbHQ/versions/ErUSwqj3/bcc-21.1.5%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/KJhXPbHQ/versions/CpGFL9bS/bcc-21.1.7%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "b15a3ec840c9d8687965d12b15f4d6854c0e945434eefddb7c8ed9e07a5202036fd2ede63d30752da88e483f916575dc43b5ffdeb4a11b8499b64eb56f62531c"
+hash = "3d7d26bd690a6eb260b8136c8cda4b965d161a2b6edea0f0a160ff5553e7b83ea9ded858d3ada198087fff8f992996575d2d54542fb6416f3d0fefa2b4213217"
 
 [update]
 [update.modrinth]
 mod-id = "KJhXPbHQ"
-version = "ErUSwqj3"
+version = "CpGFL9bS"
