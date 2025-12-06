@@ -26,7 +26,7 @@ hash = "1ff30421c28994ded3602d138184e3798c94ff08e13ffca59a87a901c89015cc"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "fa37c29a0833d2fbd47fae51b5ebeec0e17b10ccd6a596c41d8673252ef339e4"
+hash = "9d7a3ea3c1c2b6fc8e7f72d5eefd06b63e870f28b21d25a854f835a138478d03"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -300,12 +300,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "c3188eac96ce1c7f9498af4b8f4ffa269a7f3a471c9393eda2f2e8ea3acb52df"
+hash = "5150a8ee20663020c41ae5756a60f4c5a806d5f284fea2d5edf520010eaefe34"
 metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "887accac20ee924c569f880c0ee0eee3307499062dc14199da3fb91abbfb5eea"
+hash = "75f11e3816916c9a5701f475e2169829fafdb5d11d464a3c6b83f8cb7669d814"
 metafile = true
 
 [[files]]
@@ -444,6 +444,11 @@ hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
 metafile = true
 
 [[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "ff7589f72974c68767f360db4a55782d9a65560f359e39c2a3eeb3851335182b"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "3a37f452485e16f15a044572da46c48891015ae86c78d8268cb77078e6ca4f4f"
 metafile = true
@@ -460,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "83d961aa9a1808ffbd70b3b8f7cfc658e421e9c9904482bb158b30cc980d6f65"
+hash = "118c14e3ac7fa652519cb17a7be5a0be71d46a46dac9ab43bccb92b05ca7473b"
 metafile = true
 
 [[files]]
@@ -471,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "4c49bcbf4236ebf3eff68e66671c7129193df464cbdae9cdcac2346e848b8c4d"
 metafile = true
 
 [[files]]
@@ -500,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "817968b1b93b39c2b3ca0cf8808b53007806f1a740a8331844ca0b456e6b783b"
+hash = "0b0b067202146e6c092dc0c68e038d172dae0b7fba52bcf0dbfdba46b9187639"
 metafile = true
 
 [[files]]
@@ -670,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "1b607235a295f6f86c0fc294df935c17c4d7e641e73e0ce5c649ba22a5114087"
+hash = "680d268128db6813ccccd5ca946c35e74c5591b366ba45314f64a827b87c0bd3"
 metafile = true
 
 [[files]]
@@ -855,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "84140d69b44c6de015f4bfe87116ead5211763f9bcf0e0753de23c661fc57f84"
+hash = "897eb0608109b72f855db05163f8d67f97ba197a41952f57673be49f961ab4b2"
 metafile = true
 
 [[files]]

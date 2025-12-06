@@ -26,7 +26,7 @@ hash = "1ff30421c28994ded3602d138184e3798c94ff08e13ffca59a87a901c89015cc"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "fa37c29a0833d2fbd47fae51b5ebeec0e17b10ccd6a596c41d8673252ef339e4"
+hash = "9d7a3ea3c1c2b6fc8e7f72d5eefd06b63e870f28b21d25a854f835a138478d03"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -295,12 +295,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "66a784c8c78c18a37fd55cbaeb4d49de609647acc1ca8e47976808a02dab3d15"
+hash = "c403af9a860ca7248b0a8944629f2a4444d5f51fc610718f06418d5c9b19ebdc"
 metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "b734fbbf4ab5748cf4928ae3524063bdf283137da84a05b2f8812281df9aae5f"
+hash = "c77c7285d6e54bae0c2e226af2b34daee11882d11b58b37648b18aa9835b6a59"
 metafile = true
 
 [[files]]
@@ -434,6 +434,11 @@ hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
 metafile = true
 
 [[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "16a779fbdf47b154eb5ee30cc8ab41df3d3fe18308337824d66bd036c2c24014"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
 metafile = true
@@ -455,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "f173c4a6f3f94464006ef63eefcfba4544f35f7d1bbbaf3d46b376d3e4be4d5b"
+hash = "3680775e45f0de5615ce42ab84bfae6c3799998c10f2ba2ad73f3b3fbc95f52c"
 metafile = true
 
 [[files]]
@@ -466,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "bbb3f09fbd5a3ca7aa82c41923f4557429fa465993c2817e9966dd3f8164e318"
 metafile = true
 
 [[files]]
@@ -490,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "66563f396d03ea133ec26837a6643a20d4e819999f79330e63ab810b56a47933"
+hash = "651ac7886308b00a082f08387a4f27ca6325f8c8df3121101410c9bd33c732f5"
 metafile = true
 
 [[files]]
@@ -665,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "1a4a4cb11e70c5b82f3b3d2180f6055babf86a04c9a45f0d3a2e89239f44ca08"
+hash = "1e2e7ad3381209e538e57139fd6e952869b409f841a4559d160763cbf3052cca"
 metafile = true
 
 [[files]]
@@ -765,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "78f6a760d66709335b8bc92561589b0aba25873ef77f4cd1cdec570416ae9c6b"
+hash = "b2062526afe3f3c55ad508247fc25246f0b3087ac21890ff29fea2b521e289cd"
 metafile = true
 
 [[files]]
