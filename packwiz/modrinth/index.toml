@@ -26,7 +26,7 @@ hash = "1ff30421c28994ded3602d138184e3798c94ff08e13ffca59a87a901c89015cc"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "fa37c29a0833d2fbd47fae51b5ebeec0e17b10ccd6a596c41d8673252ef339e4"
+hash = "9d7a3ea3c1c2b6fc8e7f72d5eefd06b63e870f28b21d25a854f835a138478d03"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -466,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "bbb3f09fbd5a3ca7aa82c41923f4557429fa465993c2817e9966dd3f8164e318"
 metafile = true
 
 [[files]]
