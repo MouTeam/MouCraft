@@ -1,3 +1,18 @@
+## [1.3.0](https://github.com/MouTeam/MouCraft/compare/v1.2.1...v1.3.0) (2025-12-07)
+
+### 🔧 Chores
+
+* **mods:** update better-combat mod ([9cccc8e](https://github.com/MouTeam/MouCraft/commit/9cccc8e1060e8f9eda072d9b2e8ca612949ee3df))
+* **mods:** update better-compatibility-checker, lootr, creativecore ([5189d9a](https://github.com/MouTeam/MouCraft/commit/5189d9ac3e756a8cbab094995ab837dbc5b2234d))
+* **mods:** update easy-npc mod ([7352c9f](https://github.com/MouTeam/MouCraft/commit/7352c9fea59a5f55b1f019854b3cf2c66a4ad189))
+* **mods:** update macaws-lights-and-lamps ([6e4a380](https://github.com/MouTeam/MouCraft/commit/6e4a3806b92d307fb2303ecd09518ff378942e3d))
+* **mods:** update moonlight mod ([41fc48f](https://github.com/MouTeam/MouCraft/commit/41fc48f940dd223a2a3cea6bf03309dd775e7965))
+
+### ✨ Features
+
+* **mods:** 🎵 add create-sound-of-steam mod ([1ac6b8f](https://github.com/MouTeam/MouCraft/commit/1ac6b8fb2c552d492e308eab4c9b3965a95906ba))
+* **mods:** 🔮 add deeperdarker ([9253b8a](https://github.com/MouTeam/MouCraft/commit/9253b8a64d209e38436c5d8aecd97daba59c7fba))
+
 ## [1.2.1](https://github.com/MouTeam/MouCraft/compare/v1.2.0...v1.2.1) (2025-12-02)
 
 ### 🔧 Chores
