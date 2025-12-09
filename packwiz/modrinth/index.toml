@@ -690,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "494d362db9766b5cf594109dabc35c50d78c99699d68ebc87e0d6dd51e19c244"
+hash = "ea28bcac23c070998d1f7df5dcbf248831c33f59067eaf2fd125adfa07c5722c"
 metafile = true
 
 [[files]]
