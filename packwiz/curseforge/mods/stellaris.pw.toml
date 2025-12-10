@@ -1,0 +1,13 @@
+name = "Stellaris"
+filename = "stellaris-1.21-neoforge-1.4.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9b212663b61343fe37c0a534840bc4eba1074b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7312210
+project-id = 1036270
