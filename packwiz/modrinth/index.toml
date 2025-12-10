@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "87ccbd409962ea48348bd005f00a7c68d2add8528cdc6287c83ff52d21dc8c98"
+hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-sound-of-steam.pw.toml"
-hash = "16a779fbdf47b154eb5ee30cc8ab41df3d3fe18308337824d66bd036c2c24014"
+hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
