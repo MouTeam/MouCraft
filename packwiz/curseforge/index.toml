@@ -424,6 +424,11 @@ hash = "9b831e115993c10d0e8b3d187584393685ba0abfaa3ab3ca6ee9dfdf6e1a8e70"
 metafile = true
 
 [[files]]
+file = "mods/create-industry.pw.toml"
+hash = "f7bb0764893f0580c0e469cf7e23b2a7cb771e827c6b1c7e91b97293283717fe"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "ad89085cff15370c0a8bda81c22a3a040204c71f1ee170a458a949295dc219bf"
 metafile = true
@@ -759,6 +764,11 @@ hash = "a04147d9f39521c236191f913ac7fd8f177cc3ae073d5cb01be52bcede9acab2"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-the-factory-must-grow-compatibility.pw.toml"
+hash = "d8d0c8fbaff380f79bfeff4c05ee18b617899b565446d787ac3fe36ead179b99"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-tools.pw.toml"
 hash = "cf382b0b1ea1f25c133779b6ea340a5953dec3272bfaef17b6b499b4e59cc515"
 metafile = true
@@ -961,6 +971,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-neoforge.pw.toml"
 hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
+metafile = true
+
+[[files]]
+file = "mods/tfmg-stellaris-compat.pw.toml"
+hash = "5ab14bc597ccebbe4324ecc93d118508df3bf66beb821b9ed8caa36847c6a78d"
 metafile = true
 
 [[files]]

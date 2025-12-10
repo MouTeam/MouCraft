@@ -444,6 +444,11 @@ hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
 metafile = true
 
 [[files]]
+file = "mods/create-tfmg.pw.toml"
+hash = "e9561ff24c431e4fd95d851f4d9755b52b52a5c24ecc3a1ad15ab8ef20087ba9"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
@@ -754,6 +759,11 @@ hash = "bf4de668aa7c3811275080a313dd1fd8d02ed3f1eaf2e71ed6ac06309a47e46b"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-tfmg-compat.pw.toml"
+hash = "23b45bb9113f52800ff43bbf7657431425f4ff2ee048aaad3e979810a3260f2f"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-tools.pw.toml"
 hash = "c6e401888a80f74038e7ae08efaeb854a1e2c70e5b517da1e042cc98da9cd4a8"
 metafile = true
@@ -961,6 +971,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/tfmg-stellaris-compat.pw.toml"
+hash = "5ab14bc597ccebbe4324ecc93d118508df3bf66beb821b9ed8caa36847c6a78d"
 metafile = true
 
 [[files]]
