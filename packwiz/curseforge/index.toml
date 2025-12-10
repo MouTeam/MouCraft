@@ -829,6 +829,11 @@ hash = "459540ac1dad30fd535db43b1a5c7397a1cfdb30f5ab0973523de805d6b166e9"
 metafile = true
 
 [[files]]
+file = "mods/potentials.pw.toml"
+hash = "b484f15d3353a7d4b3baf14b9da340c922299aead74f7f052dd886f49489d7fd"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
@@ -936,6 +941,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-onion.pw.toml"
 hash = "c5968abb16ab6f5dae7cc862d613fb5bedccd7c73c8b42479ae55e07da1a8853"
+metafile = true
+
+[[files]]
+file = "mods/stellaris.pw.toml"
+hash = "44b7bc4758fb213b0bf165503262c310614d4a623d8f2598dcd1e291faa22ade"
 metafile = true
 
 [[files]]
