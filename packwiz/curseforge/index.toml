@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/butchery.pw.toml"
-hash = "0d3243ad904fda3bfbae8943cecbb29deb7f8e756d008d15b12a6a3f3f20b652"
+hash = "07e1f8313755a585b856a8321d7fbeb0607e9647e432dda9a6a7f457a21bd639"
 metafile = true
 
 [[files]]
