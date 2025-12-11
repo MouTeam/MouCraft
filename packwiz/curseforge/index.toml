@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "38d33f6100ad8148333520660118b608191ea407641629f471db061bf827d988"
+hash = "0f4100c2edffe26d206562da1de1765e6342825a2a3c9fcca9e6ac31eb6ff4dd"
 metafile = true
 
 [[files]]
@@ -885,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4c14cb8ce763edf4d963f8f4dcba72e48d0c84dc71410e6b45b749a10c486776"
+hash = "6b7971e83cdb9d450149166c4cefbf937df54e136bdf6937fc651ad7ff065d80"
 metafile = true
 
 [[files]]
@@ -971,11 +971,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender-neoforge.pw.toml"
 hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
-metafile = true
-
-[[files]]
-file = "mods/tfmg-stellaris-compat.pw.toml"
-hash = "5ab14bc597ccebbe4324ecc93d118508df3bf66beb821b9ed8caa36847c6a78d"
 metafile = true
 
 [[files]]
