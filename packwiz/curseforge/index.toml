@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-stairs.pw.toml"
-hash = "19189d1bb6806625cddb3546bad477872497085b2219a8e8a2ea6088cefa5004"
+hash = "749bf8f43a3b49b103685b1d1c8c39a2ca7bcd796818dc7aad226711760f0857"
 metafile = true
 
 [[files]]
@@ -740,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "5c162cb504867048ea2bb815b93c30a29a20e30859f20ee9282e596a39f03ca8"
+hash = "85b0bb55b80d196b879fe6755cd7cc509f6ecd5706bb25acd43826da5335dd57"
 metafile = true
 
 [[files]]
@@ -925,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "b1c836493ddcf6838a436b84540dae97319b80b7bd71e0607331a5cb65581d46"
+hash = "d6e3867f19d5442b46435ce1a5d939de9427189b38d9de2d7e5e6243efcebe82"
 metafile = true
 
 [[files]]
@@ -935,7 +935,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "887e0b0e738678b0ada5b3584d691b212fe757b42a6714d6dd3d799225571262"
+hash = "8afbb2a2fcc18e73015429733d3061a4477fad181fa9373dfec5635df8ea3c13"
 metafile = true
 
 [[files]]
