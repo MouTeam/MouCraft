@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "8329949f83887c7513a50e225c158d6bf2074308e3da371279b3834bb78ab219"
+hash = "c8e3e4cc79b91c41f4991b0a33df83d33d51a4bc3a6284c986c4cfa6d517ecfd"
 metafile = true
 
 [[files]]
@@ -885,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "897eb0608109b72f855db05163f8d67f97ba197a41952f57673be49f961ab4b2"
+hash = "b0940f486bf959694581170b445ab3bc2e0d63ec6168aa19b00dc9194d17cbf7"
 metafile = true
 
 [[files]]

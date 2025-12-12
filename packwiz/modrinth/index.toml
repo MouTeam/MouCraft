@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "7edc400a3de94b810a697611c6fba5ff62e126ff3bfa6cdaa1f747d5cc1b31d6"
+hash = "5e9d6a7acf9a4940fdd36a86b03cf0bb060487ea4ad9d7ee18538dab91e5b43b"
 metafile = true
 
 [[files]]
@@ -790,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b2062526afe3f3c55ad508247fc25246f0b3087ac21890ff29fea2b521e289cd"
+hash = "8fba3f318f3eb1cce1d3f9d48f5b7c317fd0aa20d9d4f5da2d4c97656849297c"
 metafile = true
 
 [[files]]
