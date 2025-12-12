@@ -120,6 +120,10 @@ key_key.worldeditcui.chunk:key.keyboard.unknown:
 key_key.worldeditcui.clear:key.keyboard.unknown:
 key_key.worldeditcui.toggle:key.keyboard.unknown:
 key_key.solonion.open_food_book:key.keyboard.unknown:
+key_tfmg.keyinfo.transmission_shift_up:key.keyboard.page.up:
+key_tfmg.keyinfo.transmission_shift_down:key.keyboard.page.down:
+key_tfmg.keyinfo.custom_button:key.keyboard.unknown:
+key_tfmg.keyinfo.engine_start:key.keyboard.r:
 key_key.emotecraft.fastchoose:key.keyboard.i:
 key_key.emotecraft.stop:key.keyboard.unknown:
 key_key.butcher.villagernosepress:key.keyboard.unknown:
