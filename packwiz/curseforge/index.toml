@@ -26,7 +26,7 @@ hash = "1ff30421c28994ded3602d138184e3798c94ff08e13ffca59a87a901c89015cc"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "9d7a3ea3c1c2b6fc8e7f72d5eefd06b63e870f28b21d25a854f835a138478d03"
+hash = "e31c5ad3b75ee63fa6b4eb8b099a27d450cbb0c9abe269b66c517c898c50b5ba"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -496,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/deimos-fabric-forge-neoforge.pw.toml"
 hash = "0afb642015114b93953d6ffc81503ad6507dd6694b7c05efd444113c4308fbfc"
+metafile = true
+
+[[files]]
+file = "mods/disconnect-packet-fix.pw.toml"
+hash = "68040e3c995d951bc12c08adada9fc45ed2282434b0eb80c999598fa07a9bb8c"
 metafile = true
 
 [[files]]
