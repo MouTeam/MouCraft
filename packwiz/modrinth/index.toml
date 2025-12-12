@@ -494,6 +494,11 @@ hash = "ac22afe75a7f033eca3826000101956833d2bc20cbcd76d41192c93f4f0990e6"
 metafile = true
 
 [[files]]
+file = "mods/disconnect-packet-fix.pw.toml"
+hash = "a1a3d0ee9d63e183124e37abb009ad398064ff8268a68b40f836579774893f89"
+metafile = true
+
+[[files]]
 file = "mods/display-delight.pw.toml"
 hash = "28f531c7efc9e5257235adcb19913ed278f3bc76a36326f28d9fb9303df9e4de"
 metafile = true
