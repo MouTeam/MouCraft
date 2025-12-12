@@ -1,3 +1,33 @@
+## [1.4.0](https://github.com/MouTeam/MouCraft/compare/v1.3.0...v1.4.0) (2025-12-12)
+
+### 🔧 Chores
+
+* **config:** update default keybindings ([419b2e7](https://github.com/MouTeam/MouCraft/commit/419b2e774742124fe9f83c951276a4de15aa4a1d))
+* **mods:** pin butchery mod to version 3.5.6 ([a7d7ceb](https://github.com/MouTeam/MouCraft/commit/a7d7ceb01460fc21bfa7e0805130797d17e272db))
+* **mods:** update client mods immediatelyfast and entityculling ([f6b9e58](https://github.com/MouTeam/MouCraft/commit/f6b9e58bc5e03332d8aa8a05494fcac71a6153b7))
+* **mods:** update create-deco, create-sound-of-steam mods ([fb60d4b](https://github.com/MouTeam/MouCraft/commit/fb60d4b0a8bf8660b23a5864c5e30b7911c77fa1))
+* **mods:** update creativecore mod ([0ed2b48](https://github.com/MouTeam/MouCraft/commit/0ed2b4890021ae712522cd673076eb63baf3a3b2))
+* **mods:** update creativecore, moonlight mods ([2e03da6](https://github.com/MouTeam/MouCraft/commit/2e03da6d2830242e016a5647b3f864a439e94200))
+* **mods:** update easy-npc mod ([b05f381](https://github.com/MouTeam/MouCraft/commit/b05f3816d2f48c080f8cc22b2f8c8d34eaa6b288))
+* **mods:** update macaws-fences-and-walls to 1.2.1 ([683ea57](https://github.com/MouTeam/MouCraft/commit/683ea575000c36a466fab21e7a94e8c19aaaa6ef))
+* **mods:** update minecolonies to 1.1.1223 ([ba42713](https://github.com/MouTeam/MouCraft/commit/ba427131ac3a7a40b30934bcf0b642c8a78bef7a))
+* **mods:** update simple-voice-chat, fast-ip-ping, remove tfmg-stellaris-compat ([81c53e4](https://github.com/MouTeam/MouCraft/commit/81c53e44c7af4c82c429752d57ce2b0770e2ad0f))
+* **mods:** update sophisticated-backpacks ([48c88ab](https://github.com/MouTeam/MouCraft/commit/48c88abf6f78512958bd067f0279521601983387))
+* **mods:** update sophisticated-core, sophisticated-backpacks mods ([e653529](https://github.com/MouTeam/MouCraft/commit/e653529dfb77322db04b47540f70face069d966e))
+* **mods:** update sophisticated-core, sophisticated-storage and sophisticated-backpacks mods ([5a25a1e](https://github.com/MouTeam/MouCraft/commit/5a25a1ee9fcf15bb3301b0d1cca5ede4cd60f156))
+* **mods:** update supplementaries mod ([9f14ad6](https://github.com/MouTeam/MouCraft/commit/9f14ad6056b17bfde36f1c6ad69248696ab7e9fb))
+* **mods:** update supplementaries mod ([9c440db](https://github.com/MouTeam/MouCraft/commit/9c440db73c9ae74228566f5b13a52582069d898a))
+* **mods:** various update mods ([f654414](https://github.com/MouTeam/MouCraft/commit/f65441428b5b2709ad4271b10c90a3f150d0fe00))
+
+### ✨ Features
+
+* **mods:** ⛽ add create-tfmg, mekanism-tfmg-compat, tfmg-stellaris-compat mods ([85f9b47](https://github.com/MouTeam/MouCraft/commit/85f9b47e38575d87379f23145d324f23c3b9a648))
+* **mods:** 🚀 add stellaris and dependencies ([59c727f](https://github.com/MouTeam/MouCraft/commit/59c727ff041c191bcf4f88a275c404903d113f13))
+
+### ⚡️ Performance Improvements
+
+* **mods:** add disconnect-packet-fix mod (server side) ([2ff6a62](https://github.com/MouTeam/MouCraft/commit/2ff6a62b3e2bb6149ec072c3c0575a1da135249b))
+
 ## [1.3.0](https://github.com/MouTeam/MouCraft/compare/v1.2.1...v1.3.0) (2025-12-07)
 
 ### 🔧 Chores
