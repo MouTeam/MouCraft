@@ -1,3 +1,9 @@
+## [1.4.1](https://github.com/MouTeam/MouCraft/compare/v1.4.0...v1.4.1) (2025-12-14)
+
+### 🐛 Bug Fixes
+
+* **mods:** updade various mods ([9c10d06](https://github.com/MouTeam/MouCraft/commit/9c10d069932ad89f6d6c5daf69f6d7ab880383e6))
+
 ## [1.4.0](https://github.com/MouTeam/MouCraft/compare/v1.3.0...v1.4.0) (2025-12-12)
 
 ### 🔧 Chores
