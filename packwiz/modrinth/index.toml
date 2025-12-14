@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "6cd235030774b3cfab54145cf616ab47b0afa57cacab75ede94c2682c9450ce9"
+hash = "bb3c95ec2011f508ad0f13eec389f5e1835ca14e452f76b7db2f76753a3acdaf"
 metafile = true
 
 [[files]]
@@ -790,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8fba3f318f3eb1cce1d3f9d48f5b7c317fd0aa20d9d4f5da2d4c97656849297c"
+hash = "80c0d9b10a22bfb81f7664043c67bef9b78f95a1c8ba62efae4335658a0c72e0"
 metafile = true
 
 [[files]]
@@ -925,12 +925,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "c7cb0cf0313cf4b37bfff48b8746a698083b9b5c1d35d0260e85ef4dd7457fc9"
+hash = "afc8b791ae5751382ecb3715fef8a7a50059cc120c5ae556ed7967a97984a1dd"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "2b6a9d7f596428b2d7195cc7dc3ae6b78a1779cbb8232edc1f612c63bcf34a10"
+hash = "0acde4349cc71e66e906b0ea0cb60c8c7ef0caa2f9f6e548a1ae9127cb3b102a"
 metafile = true
 
 [[files]]
@@ -940,7 +940,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "4b743058def7a4565ea0e6bf1441e9abff0446bb22cad8dc835a0043c9b0bc2e"
+hash = "007d2d5934cd538ab80fcbb70f2737dd14e9f4057f3424fa14e41a761ef6b7f7"
 metafile = true
 
 [[files]]
@@ -970,7 +970,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2632cdb92a41c1c8fe4eb6d4a76deb9febb62c9e62cb9d91ad9794e42829f7c8"
+hash = "70fab1377063ea642ca352ebf364dde768ab65223308605b63b2aa63519515eb"
 metafile = true
 
 [[files]]
