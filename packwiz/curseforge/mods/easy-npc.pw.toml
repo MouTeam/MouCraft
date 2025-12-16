@@ -1,13 +1,13 @@
 name = "Easy NPC"
-filename = "easy_npc_bundle-6.1.2-neoforge-1.21.1.jar"
+filename = "easy_npc_bundle-6.2.0-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6565ef27d64e81bd883a4c460103c5e4ae117c41"
+hash = "76b727417d22a31a6ca6e8d3a76ed6b4e4da161b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7322690
+file-id = 7336254
 project-id = 559312
