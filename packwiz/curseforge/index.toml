@@ -26,7 +26,7 @@ hash = "1ff30421c28994ded3602d138184e3798c94ff08e13ffca59a87a901c89015cc"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "65567e53c391d5addf279e9b842c2a95189a9d1d20d6a850bc450e2e0ade7c2a"
+hash = "16a22fc8adc6f36a32e8151631323fb3d1e68811f2b08803f20663fa5b40889b"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -751,11 +751,6 @@ metafile = true
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "41ea4b48ae8ecb1f0a92183f45f1d237b5b83a6007bbf73d80c60324d9a93358"
-metafile = true
-
-[[files]]
-file = "mods/map-atlases-forge.pw.toml"
-hash = "a9784f3f5b888c69695fc3c43e148d9f92edf0aef8aa2baf8bcce463b90196fa"
 metafile = true
 
 [[files]]
