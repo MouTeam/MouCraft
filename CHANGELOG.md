@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/MouTeam/MouCraft/compare/v1.4.1...v1.4.2) (2025-12-16)
+
+### 🐛 Bug Fixes
+
+* **mods:** remove map-atlases-forge mod ([5141382](https://github.com/MouTeam/MouCraft/commit/5141382f181ea8a68a1450e936d329ee0ea20e19))
+* **mods:** updade various mods ([8005525](https://github.com/MouTeam/MouCraft/commit/800552589fb55145ec720acdc9959d482910bffc))
+
 ## [1.4.1](https://github.com/MouTeam/MouCraft/compare/v1.4.0...v1.4.1) (2025-12-14)
 
 ### 🐛 Bug Fixes
