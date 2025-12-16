@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "460b4d4a80c4731575ac5c9b5d5747a38ce52e4a34e9e1642341b8a4749e543e"
+hash = "105896bd81709c51629f3950e53c41765bc413f6d44edef7e776db8eb8e544b2"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-industry.pw.toml"
-hash = "f7bb0764893f0580c0e469cf7e23b2a7cb771e827c6b1c7e91b97293283717fe"
+hash = "14cb95e3c034d3a680ed8bb0a1542c1d5de1ebd4d88b16253e180d37e9c75889"
 metafile = true
 
 [[files]]
@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "b9a8d74e2840e75d6ca476fa1e2226cf04b67a18fdb585a6f4cca8efdb30e621"
+hash = "2061696a58e92228e226b46e634778e3980b6f7be767d44f9518fb4cb711929e"
 metafile = true
 
 [[files]]
@@ -690,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "680d268128db6813ccccd5ca946c35e74c5591b366ba45314f64a827b87c0bd3"
+hash = "4e147fec27b78a78548d9ea978a932e1b78aa303215aa56a84f0e7dce6ce90a7"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "48c1f6df4e6cb6050dedf5265fe97a72c8199fe38e903f9878478ebe5f5d1658"
+hash = "b1e3ed06877e31e6ff2660037a8f0071c7e23306436c788c6ca3c2ae1fe0cf10"
 metafile = true
 
 [[files]]
@@ -885,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "72db510ee0b1c4c75ab53bd08d29d474d2bd602c7d3fdeaa8c1255bc0e94b959"
+hash = "df0273fa8bf2c5e54daf1a15c81dd40f9103bf90ab13859051b08f8e26ff9a77"
 metafile = true
 
 [[files]]
@@ -930,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "8be0b4bd2621cf891bb6bdf94db0c3a04258063629b5060221815bf0bef7aba7"
+hash = "9a51a08d9f91b14ac0fd2039df616ae82dbd92dcb518347e8a5d2ab8ed5e2390"
 metafile = true
 
 [[files]]
