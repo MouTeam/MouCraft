@@ -99,12 +99,6 @@ key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.closeRecipeGui:key.keyboard.escape:
 key_key.jei.copy.recipe.id:key.keyboard.unknown:
 key_key.kubejs.kubedex:key.keyboard.unknown:
-key_key.map_atlases.open_minimap:key.keyboard.semicolon:
-key_key.map_atlases.zoom_out_minimap:key.keyboard.keypad.subtract:
-key_key.map_atlases.zoom_in_minimap:key.keyboard.keypad.add:
-key_key.map_atlases.place_pin:key.keyboard.unknown:
-key_key.map_atlases.increase_slice:key.keyboard.unknown:
-key_key.map_atlases.decrease_slice:key.keyboard.unknown:
 key_key.mekanism.mode:key.keyboard.r:
 key_key.mekanism.head_mode:key.keyboard.keypad.7:
 key_key.mekanism.chest_mode:key.keyboard.g:
@@ -157,7 +151,7 @@ key_framedblocks.key.wipe_cache:key.keyboard.unknown:
 key_key.create_sa.flying:key.keyboard.space:
 key_key.create_sa.increase_reach:key.keyboard.up:
 key_key.create_sa.decrease_reach:key.keyboard.down:
-key_key.pipeorgans.midi_config:key.keyboard.semicolon:
+key_key.pipeorgans.midi_config:key.keyboard.unknown:
 key_key.securitycraft.cameraZoomIn:key.keyboard.equal:
 key_key.securitycraft.cameraZoomOut:key.keyboard.minus:
 key_key.securitycraft.cameraEmitRedstone:key.keyboard.r:
