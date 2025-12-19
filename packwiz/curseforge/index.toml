@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "8b5bd3d7e3ffe3751c7828ceeb5aa338c7f92625d86c3bd2893b6007513c71de"
+hash = "7b5244ba357625b811422d712f8b687f44e5b4ed07a3d8719a170aab352d823d"
 metafile = true
 
 [[files]]
