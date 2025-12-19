@@ -1,13 +1,13 @@
 name = "Better Combat"
-filename = "bettercombat-neoforge-2.3.0+1.21.1.jar"
+filename = "bettercombat-neoforge-2.3.1+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/zjX3qpLx/bettercombat-neoforge-2.3.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/vyOG66rq/bettercombat-neoforge-2.3.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "f862774eb596d2cba3d83e929ebaeba6ba7fa87abbd6aa94f8e63557b5f60dd85d9f92996134ea67c3d8cfe7671a758cc7a5b5df07c79f12139ab10ebe048be2"
+hash = "2b8b86cd9255ebda9b7f2b31bb7e96797e785322665da6b20daa0899d77bc4dd032312ea8d75988a612f7c0a3a384a28823b3888916e9adc77b425ed16386e3a"
 
 [update]
 [update.modrinth]
 mod-id = "5sy6g3kz"
-version = "zjX3qpLx"
+version = "vyOG66rq"
