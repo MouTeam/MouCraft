@@ -26,7 +26,7 @@ hash = "1ff30421c28994ded3602d138184e3798c94ff08e13ffca59a87a901c89015cc"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "16a22fc8adc6f36a32e8151631323fb3d1e68811f2b08803f20663fa5b40889b"
+hash = "8461357950daee4b496e4e0c52966ddb668e70aaf6aa2d180a0647fabb04eea0"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -636,6 +636,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "5d49dd7272a1418fabed10e3ef9b5c79c3bbb9205d83e79e301c16ad0a0e89e6"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "cd5beda0733814f0d75519c2a4b081024eb37830e6bc77abdd6e06af3568a7d9"
 metafile = true
 
 [[files]]
