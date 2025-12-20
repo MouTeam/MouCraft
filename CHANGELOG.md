@@ -1,3 +1,29 @@
+## [1.5.0](https://github.com/MouTeam/MouCraft/compare/v1.4.2...v1.5.0) (2025-12-20)
+
+### 🔧 Chores
+
+* **mods:** pin baguettelib ([cee4a9c](https://github.com/MouTeam/MouCraft/commit/cee4a9c26db7b2e3a7f7094e947b62595601ec67))
+* **mods:** update amendments ([ffc4f43](https://github.com/MouTeam/MouCraft/commit/ffc4f43960cdb5f090e9c95874e47795b645f4fb))
+* **mods:** update baguettelib ([d358f05](https://github.com/MouTeam/MouCraft/commit/d358f05a5bc79e01b6b62f8946605e7a03d109a0))
+* **mods:** update better-combat ([a6e32a5](https://github.com/MouTeam/MouCraft/commit/a6e32a56de213adeed1b315642796530a3e69001))
+* **mods:** update creativecore ([2db24e5](https://github.com/MouTeam/MouCraft/commit/2db24e542c828d75a0b931a91078e1ed49317a5e))
+* **mods:** update fresh-animations ([349acfe](https://github.com/MouTeam/MouCraft/commit/349acfef5fb250fc40722082251a1774defb4584))
+* **mods:** update immediatelyfast ([1d06c94](https://github.com/MouTeam/MouCraft/commit/1d06c94fa566b5bef2146df6218aac61f0f0f86b))
+* **mods:** update just-enough-effect-descriptions-jeed ([77384b0](https://github.com/MouTeam/MouCraft/commit/77384b0c25d7b166df2bab969f722cdec9c165de))
+* **mods:** update lootr ([8bbb23a](https://github.com/MouTeam/MouCraft/commit/8bbb23a5e5e0b575515febba1321c55079574d60))
+* **mods:** update minecolonies ([c825a32](https://github.com/MouTeam/MouCraft/commit/c825a3236d89709e28d069280c8e5917d8814ea3))
+* **mods:** update moonlight ([bfb38f5](https://github.com/MouTeam/MouCraft/commit/bfb38f5f4d3ff230bfc1aaf999aff7cce4f531cb))
+* **mods:** update simple-voice-chat ([9202a81](https://github.com/MouTeam/MouCraft/commit/9202a81e17da523ad198a6a0af3aa827ec0f498c))
+* **mods:** update sophisticated-core, sophisticated-backpacks ([073cbb9](https://github.com/MouTeam/MouCraft/commit/073cbb9c112f8bf0ca44d3cfd0bea01cf2a18bff))
+* **mods:** update sophisticated-storage ([81db2fc](https://github.com/MouTeam/MouCraft/commit/81db2fc96996747695d65afe7329ea30ff5d91f5))
+* **mods:** update supplementaries ([fc19bea](https://github.com/MouTeam/MouCraft/commit/fc19bea9fcd460ec25748c0bb6e07cb0a5446ed2))
+* **mods:** update supplementaries ([5adf272](https://github.com/MouTeam/MouCraft/commit/5adf27235d83fb2860266bbe860b2994442bdceb))
+* **mods:** update waystones ([ce3c19a](https://github.com/MouTeam/MouCraft/commit/ce3c19afe6fb24ecd948cd598eadd63d5a60ff6f))
+
+### ✨ Features
+
+* **mods:** add journeymap mod ([d487495](https://github.com/MouTeam/MouCraft/commit/d487495b4b55402223272b546cd2a271c0aaceb3))
+
 ## [1.4.2](https://github.com/MouTeam/MouCraft/compare/v1.4.1...v1.4.2) (2025-12-16)
 
 ### 🐛 Bug Fixes
