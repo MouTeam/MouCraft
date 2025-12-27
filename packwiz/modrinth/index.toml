@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "47ca6d7fe185e6e773347e62863a49ff05c0c7b48e026a97ec6dde3e1fe1e7cc"
+hash = "cf188f68a553bcdd05ddbd1fd7c32a8868afa341da77697916aeed22dc5c85ae"
 metafile = true
 
 [[files]]
@@ -509,8 +509,13 @@ hash = "e62ad211845d7aed46061fb23f6bfd8f66cf3ff3ece7ffa20766d40cf8b1387f"
 metafile = true
 
 [[files]]
-file = "mods/easy-npc.pw.toml"
-hash = "bbf48e8f9310e2dca5f6f63828b23f080fa2823f6e426f291b5d652b918b08fd"
+file = "mods/easy-npc-config-ui.pw.toml"
+hash = "e242b3d8d86b6aee03e88f3159ba214c370fa00aeee630d264de0a381285e0be"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-core.pw.toml"
+hash = "28feda63e5dafe1feb054e36905fe93ea9d69d648cd929334ab53bdd3ba07697"
 metafile = true
 
 [[files]]
@@ -635,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5d49dd7272a1418fabed10e3ef9b5c79c3bbb9205d83e79e301c16ad0a0e89e6"
+hash = "231d0eacf5dff73e07379830848e77121e785d9870aaf69ba82666ee8699bff4"
 metafile = true
 
 [[files]]
@@ -690,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "238eafec0c25da72e31cefe7723d08c1be7511d23d2f33457f8874ef97b77bef"
+hash = "fe0718bb76b1c35a0830f06385c48e879834f1dad9151eb76798182b05ffb8fe"
 metafile = true
 
 [[files]]
@@ -780,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "f0add745a5569db71a7b82e41f55f07e0f9073542ea41cc86fca0e7c9ada2a92"
+hash = "06b995b4d77ca80d00f8acde76e3d89d2203a29e969c68c5f8a20055f21cdf25"
 metafile = true
 
 [[files]]
@@ -790,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "56f90779687daa9101ae4dc2730a3b44b07ed3a5113eb4f4b41e36143b297f56"
+hash = "6223a822cff51f25d555ea2dfa8a476e9b987ec38a16188a384136771a53d728"
 metafile = true
 
 [[files]]
@@ -890,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "78e3dde88f8a9b30ab337d824238df20c54f1cd283b2c5db8511f827bb9f8e9b"
+hash = "97b2aef4e58e020a28122feea6dfcef731581cb12094047aae8c1e6077c54e75"
 metafile = true
 
 [[files]]
@@ -925,12 +930,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "931292430612e2623b563415285bb8ecffe3e42b61f00a2b0d3e10ea9cbeab5a"
+hash = "7ca64874ddb92f6d1f3ff2b2a5ce6340f0733ee8935efda71aa1f191708fd7fa"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "1c47bb34ab87f9a5164bf962d5fdf0e0a428a0f8e7482aa57f64ffde03455414"
+hash = "3f6b930204846ba0151c9805d3d6e2c85da9ecad021c51d753644f5f171c95dc"
 metafile = true
 
 [[files]]
@@ -940,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "d599a1a3cdb3a0ece343aef60f19b52536a11aaaddc1e63c966069d61cee8cf8"
+hash = "583d6032fd72a2717d57b39aace6450222460744504aa5e1c65236502d7490b9"
 metafile = true
 
 [[files]]
@@ -965,7 +970,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "b03a9cb248cb1803775a377f455a42bcc7c876dd33b181fd446ded77a3ab0209"
+hash = "d9534f473f62a4f9a0c466c5733c41b79d669ed26995c1946fb05ae2bb086663"
 metafile = true
 
 [[files]]
@@ -999,8 +1004,13 @@ hash = "a255c29cb611f60aaad313b223bc424721be5998673002da6b589b2862912621"
 metafile = true
 
 [[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "e0b5d86b63b2aa52bf50d3b58280fed584f8cfef65edc32e7a8b317690e877bc"
+metafile = true
+
+[[files]]
 file = "mods/watermedia.pw.toml"
-hash = "03a442894e03f9ebe0657ea717a01ea53718ac785a3b20bdcab647e5198902ee"
+hash = "976854e8cb0473236ae4ce6b5b29bb901dc46b20d072bfed79e1f07c64b37095"
 metafile = true
 
 [[files]]
