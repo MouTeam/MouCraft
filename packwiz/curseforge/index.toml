@@ -979,6 +979,11 @@ hash = "d9534f473f62a4f9a0c466c5733c41b79d669ed26995c1946fb05ae2bb086663"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "36a9973a4f3cd5aef77cf4199ff1a3e243c36a379b6c83c789a2ed7ceddd6986"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "8f79cc7fdb57fff2829a1eba7720443ab43f893d65fc7b333c152a1628012ab8"
 metafile = true
