@@ -1,3 +1,25 @@
+## [1.6.0](https://github.com/MouTeam/MouCraft/compare/v1.5.0...v1.6.0) (2025-12-27)
+
+### 🔧 Chores
+
+* **mods:** update jei mod ([3982054](https://github.com/MouTeam/MouCraft/commit/3982054643edd4862dff9c4780f6b2fd12fc3aaa))
+* **mods:** update moonlight ([5d7620f](https://github.com/MouTeam/MouCraft/commit/5d7620f9899d324900ec784c1cc6e4612a934752))
+* **mods:** update sophisticated-code, sophisticated-backpack, sophisticated-storage mods ([220046f](https://github.com/MouTeam/MouCraft/commit/220046fe797fcdfab2ab3cdd2e78431d398b9bf2))
+
+### ✨ Features
+
+* **mods:** add magnum-torch mod ([f9bd918](https://github.com/MouTeam/MouCraft/commit/f9bd91879927644ac78647257cca8e9b681f451f))
+* **mods:** add supplementaries-squared mod ([ee37e3f](https://github.com/MouTeam/MouCraft/commit/ee37e3f5fc1aa783d54356b343014cc42593a800))
+
+### 🐛 Bug Fixes
+
+* **mods:** remove easy-npc, add easy-npc-core, easy-npc-config-ui mods ([ca07fb0](https://github.com/MouTeam/MouCraft/commit/ca07fb0576595ee7e8307e38e31edb78da0279c0))
+* **mods:** update azurelib ([15b754f](https://github.com/MouTeam/MouCraft/commit/15b754f89dd548492444411898e1ad0f6021de54))
+* **mods:** update easy-npc ([9918a24](https://github.com/MouTeam/MouCraft/commit/9918a24083f564fed1e46354a5b8ce7cd146752e))
+* **mods:** update lootr ([887357f](https://github.com/MouTeam/MouCraft/commit/887357fc6dda1f7e30512431ca4a7e9c20720749))
+* **mods:** update minecolonies, structurize mods ([bd1a218](https://github.com/MouTeam/MouCraft/commit/bd1a218e3055dec9878a9e38b546b34ceceb08b8))
+* **mods:** update watermedia, add watermedia-yt-plugin ([c52a076](https://github.com/MouTeam/MouCraft/commit/c52a076cce320bf04ac420528c72ae5f17c559d6))
+
 ## [1.5.0](https://github.com/MouTeam/MouCraft/compare/v1.4.2...v1.5.0) (2025-12-20)
 
 ### 🔧 Chores
