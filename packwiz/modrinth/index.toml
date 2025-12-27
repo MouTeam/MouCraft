@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "f0add745a5569db71a7b82e41f55f07e0f9073542ea41cc86fca0e7c9ada2a92"
+hash = "06b995b4d77ca80d00f8acde76e3d89d2203a29e969c68c5f8a20055f21cdf25"
 metafile = true
 
 [[files]]
@@ -965,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "b03a9cb248cb1803775a377f455a42bcc7c876dd33b181fd446ded77a3ab0209"
+hash = "d9534f473f62a4f9a0c466c5733c41b79d669ed26995c1946fb05ae2bb086663"
 metafile = true
 
 [[files]]
