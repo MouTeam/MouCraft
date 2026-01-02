@@ -1044,11 +1044,6 @@ hash = "ae02d2d72605503d7b19c949f42bd59a1fef189c574b697907f3e303750a03c9"
 metafile = true
 
 [[files]]
-file = "mods/yawp.pw.toml"
-hash = "bbd03a15696b56b2374a1e66933b0992b8e8745bcade8ea449a367552cccb8e6"
-metafile = true
-
-[[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
 hash = "01c11ac6419fd82f8e34cb6784492c3526bc19c340a121c87f35a6916e23b2fc"
 metafile = true
