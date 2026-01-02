@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "c77c7285d6e54bae0c2e226af2b34daee11882d11b58b37648b18aa9835b6a59"
+hash = "7c3b1f4819e8a3b88cadd8ed968d74491c71f504738dd0f2cd60f3ff40d80f72"
 metafile = true
 
 [[files]]
