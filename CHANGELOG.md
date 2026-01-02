@@ -1,3 +1,26 @@
+## [1.6.1](https://github.com/MouTeam/MouCraft/compare/v1.6.0...v1.6.1) (2026-01-02)
+
+### 🔧 Chores
+
+* **mods:** update better-compatibility-checker ([e1e393e](https://github.com/MouTeam/MouCraft/commit/e1e393e93f9c0c4d5b534ac9e3ffb822ced76de4))
+* **mods:** update creativecore ([77c0369](https://github.com/MouTeam/MouCraft/commit/77c0369a73259f0a06eb3d472f085cb9e3155c57))
+* **mods:** update easy-npc-core, easy-npc-config-ui ([9910819](https://github.com/MouTeam/MouCraft/commit/991081938622b3cad1948d0b764ceb94d10b4116))
+* **mods:** update entityculling ([0e2020e](https://github.com/MouTeam/MouCraft/commit/0e2020ea029171f5dbeb5bea4c405167a3c9a5de))
+* **mods:** update entitytexturefeatures, entity-model-features ([88ae980](https://github.com/MouTeam/MouCraft/commit/88ae980b57ff3044633c4af2e6733352deccbefe))
+* **mods:** update faithful-32x to 1.21.1-december-2025 ([a96ffa5](https://github.com/MouTeam/MouCraft/commit/a96ffa582c8a48acaed1fc1df702ef56f83c9e39))
+* **mods:** update jei ([f4f7ec2](https://github.com/MouTeam/MouCraft/commit/f4f7ec21ed45df9d152af25d440e7b94e27078ff))
+* **mods:** update just-enough-mekanism-multiblocks ([528dc84](https://github.com/MouTeam/MouCraft/commit/528dc84dc40ab346dc95977f325fa981041da79c))
+* **mods:** update lootr ([abb5584](https://github.com/MouTeam/MouCraft/commit/abb5584d4e78629760037edf2b25f8988b5c104d))
+* **mods:** update minecolonies, blockui ([85895d8](https://github.com/MouTeam/MouCraft/commit/85895d844f9e760eaf120a28b9e71cfd8eab1031))
+* **mods:** update moonlight ([86b2b5d](https://github.com/MouTeam/MouCraft/commit/86b2b5d31d070284c6de51ce549fd943cc3087fa))
+* **mods:** update playeranimator ([535c586](https://github.com/MouTeam/MouCraft/commit/535c586b27841becc9fbc4162c9fc553a2366a08))
+* **mods:** update sophisticated-core, sophisticated-backpacks ([8a8be60](https://github.com/MouTeam/MouCraft/commit/8a8be60db155f6d24ed8a1477deddb272436f74c))
+
+### 🐛 Bug Fixes
+
+* **mods:** update supplementaries ([863efba](https://github.com/MouTeam/MouCraft/commit/863efbaa2784b3fa86605647d4238fb26ce6980c))
+* **mods:** update yawp ([cadb668](https://github.com/MouTeam/MouCraft/commit/cadb668a6f57ddac9f8adf28bb07b22488f1d687))
+
 ## [1.6.0](https://github.com/MouTeam/MouCraft/compare/v1.5.0...v1.6.0) (2025-12-27)
 
 ### 🔧 Chores
