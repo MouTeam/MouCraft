@@ -1045,7 +1045,7 @@ metafile = true
 
 [[files]]
 file = "mods/yawp.pw.toml"
-hash = "e9e5d68773dac69422e179e17750f59ef058cfc8d4dcb7be592256a9285e76da"
+hash = "b1ae7c5adb1641955ed58b87658a94b00926deb3952abf70cc9bba735432cb78"
 metafile = true
 
 [[files]]
