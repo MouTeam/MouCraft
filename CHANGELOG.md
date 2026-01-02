@@ -1,3 +1,9 @@
+## [1.6.2](https://github.com/MouTeam/MouCraft/compare/v1.6.1...v1.6.2) (2026-01-02)
+
+### 🐛 Bug Fixes
+
+* **mods:** remove yawp ([3f02ab5](https://github.com/MouTeam/MouCraft/commit/3f02ab52b0379e8b147b583062b20a5d3f57bc2a))
+
 ## [1.6.1](https://github.com/MouTeam/MouCraft/compare/v1.6.0...v1.6.1) (2026-01-02)
 
 ### 🔧 Chores
