@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c08ffda576e1a39659dac09ce9d4d7c56137e965f9672948eed7486aa8f59258"
+hash = "3e0723220e700b07639877eb718b95afbe5fe57ec6ba7137a33ec3a0c7195727"
 
 [[files]]
 file = "config/defaultoptions/extra/config/butcher.toml"

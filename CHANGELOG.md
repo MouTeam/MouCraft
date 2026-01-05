@@ -1,3 +1,20 @@
+## [1.6.3](https://github.com/MouTeam/MouCraft/compare/v1.6.2...v1.6.3) (2026-01-05)
+
+### 🔧 Chores
+
+* **mods:** update balm ([8765091](https://github.com/MouTeam/MouCraft/commit/8765091404c0f2de305c7807c71a8c6024aa8f96))
+* **mods:** update easy-npc-core, easy-npc-config-ui ([cae5926](https://github.com/MouTeam/MouCraft/commit/cae5926ca9c1853746db60a03c3ac9e5675a9bee))
+* **mods:** update geckolib ([029abb3](https://github.com/MouTeam/MouCraft/commit/029abb342299c9caa897617830ccdf1e95aaaf99))
+* **mods:** update jei ([7fafcdd](https://github.com/MouTeam/MouCraft/commit/7fafcdd812681eb3ab18ef29c867b920d4f72195))
+* **mods:** update lootr ([0ae0560](https://github.com/MouTeam/MouCraft/commit/0ae056006de683d19401010a0a7ef3f6c219c9c0))
+* **mods:** update simple-voice-chat ([10d9c91](https://github.com/MouTeam/MouCraft/commit/10d9c91d5aa18ba5c02290347ca9fdf8bb7142ef))
+* **mods:** update sophisticated-backpacks, sophisticated-storage ([0754492](https://github.com/MouTeam/MouCraft/commit/0754492495b70b5607fe83b541aecf51203d6766))
+
+### 🐛 Bug Fixes
+
+* **mods:** update create to 6.0.9 ([3c1f296](https://github.com/MouTeam/MouCraft/commit/3c1f2964b39780005fc56bd7e2b631ea580eacfb))
+* **mods:** update minecolonies, structurize ([d250d84](https://github.com/MouTeam/MouCraft/commit/d250d8434c5fcd7254bf1165e96dc09b626df503))
+
 ## [1.6.2](https://github.com/MouTeam/MouCraft/compare/v1.6.1...v1.6.2) (2026-01-02)
 
 ### 🐛 Bug Fixes
