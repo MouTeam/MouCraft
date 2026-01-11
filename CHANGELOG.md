@@ -1,3 +1,21 @@
+## [1.6.4](https://github.com/MouTeam/MouCraft/compare/v1.6.3...v1.6.4) (2026-01-11)
+
+### 🔧 Chores
+
+* **mods:** update ambientsounds ([dd7b459](https://github.com/MouTeam/MouCraft/commit/dd7b459faa043f400e5a6c46b2694b4a5524cbbb))
+* **mods:** update create-encased ([13bc485](https://github.com/MouTeam/MouCraft/commit/13bc485d7ead86e5a32888a57524e126dd423256))
+* **mods:** update expanded-delight ([8ecc410](https://github.com/MouTeam/MouCraft/commit/8ecc41043424b578d057b25be0f253cbc046b498))
+* **mods:** update jade ([1d5475c](https://github.com/MouTeam/MouCraft/commit/1d5475cb1dba1e46dc1021a0f811d7f30a449064))
+* **mods:** update moonlight ([f1a1eaf](https://github.com/MouTeam/MouCraft/commit/f1a1eaf2138c9b545734c14cbd281e7e7446036a))
+* **mods:** update sophisticated-core, sophisticated-backpacks, sophisticated-storage ([7c916fa](https://github.com/MouTeam/MouCraft/commit/7c916fa1d1e19b94554e410f7a24b4398d5e2dba))
+* **mods:** updateeasy-npc-core, easy-npc-config-ui ([cf02b81](https://github.com/MouTeam/MouCraft/commit/cf02b81435e4973b95260fcbe508091ab89d5acd))
+
+### 🐛 Bug Fixes
+
+* **mods:** update amendments ([549a7bb](https://github.com/MouTeam/MouCraft/commit/549a7bbc6be697246152bca18937ab98d93298bf))
+* **mods:** update create-tfmg ([4538272](https://github.com/MouTeam/MouCraft/commit/45382728ba25720081d7e425480ee2b72f478dc7))
+* **mods:** update minecolonies, structurize, domum-ornamentum mods ([107e29f](https://github.com/MouTeam/MouCraft/commit/107e29f824fb9cc436ed960fd1ab8a2589cddeb3))
+
 ## [1.6.3](https://github.com/MouTeam/MouCraft/compare/v1.6.2...v1.6.3) (2026-01-05)
 
 ### 🔧 Chores
