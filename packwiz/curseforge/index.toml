@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "de20ad6df201e6485386665082def48c4a50a0433a5c62914c225d32f3c8ea77"
+hash = "c5defb4c2defa414723452c92c45cc41e4dff1c7e55e101a4283f17c790c887d"
 metafile = true
 
 [[files]]
