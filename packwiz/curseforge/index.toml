@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-industry.pw.toml"
-hash = "14cb95e3c034d3a680ed8bb0a1542c1d5de1ebd4d88b16253e180d37e9c75889"
+hash = "6cf57a4d0b0d2f7bc04196d22719ca676286d4c1d4435241b7fe9512313a7332"
 metafile = true
 
 [[files]]
