@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "7c07f70035a9ef0fa613bb1acab3db9377a7de11461761c4a33a52df71382c23"
+hash = "549fb5022b71bea17a005102a9db57703f3bc97a5a103905fdc2d2a8def0fa91"
 metafile = true
 
 [[files]]
