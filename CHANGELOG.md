@@ -1,3 +1,9 @@
+## [1.6.5](https://github.com/MouTeam/MouCraft/compare/v1.6.4...v1.6.5) (2026-01-19)
+
+### 🐛 Bug Fixes
+
+* **mods:** update modpack ([b9be652](https://github.com/MouTeam/MouCraft/commit/b9be6522173cde0e4e6be8e3f3cd4b3fe1f070ba))
+
 ## [1.6.4](https://github.com/MouTeam/MouCraft/compare/v1.6.3...v1.6.4) (2026-01-11)
 
 ### 🔧 Chores
