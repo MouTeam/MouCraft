@@ -1,13 +1,13 @@
 name = "PlayerRevive"
-filename = "PlayerRevive_NEOFORGE_v2.0.37_mc1.21.1.jar"
+filename = "PlayerRevive_NEOFORGE_v2.1.0_mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ABIMzABM/versions/8xBYNbZZ/PlayerRevive_NEOFORGE_v2.0.37_mc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/ABIMzABM/versions/10KVBFJJ/PlayerRevive_NEOFORGE_v2.1.0_mc1.21.1.jar"
 hash-format = "sha512"
-hash = "8afd5149f7c238fa7a653cd191ec2c204f8adc03d203c3f37927db2afd545a603fc44e644ab4f2e9753fc1ee306f8024f2df3ff41dbd6728e94e42ccb66785a4"
+hash = "2be0137717928ae48b30c5f9a5cbd123c3ef87611ac7db2e59620ee63fe1001b4270322486bd01928008dbf34ad2b91f812782f428b5b56302008aa2e974b26e"
 
 [update]
 [update.modrinth]
 mod-id = "ABIMzABM"
-version = "8xBYNbZZ"
+version = "10KVBFJJ"

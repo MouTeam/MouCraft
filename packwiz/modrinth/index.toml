@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "ab17eef29211153f05939d62c8ec6c36171c4e4003e7aa34ade1605f7bcb0940"
+hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "549fb5022b71bea17a005102a9db57703f3bc97a5a103905fdc2d2a8def0fa91"
+hash = "eef3ee7ba1a3731edf183824a30c720132fcec5d55d83c734dd846bd2ebf92f4"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "437e0fa400ed17c49a4afbae3dd5ccd42ae57a0a204e4614e9a4ac0148746c35"
+hash = "c576b82cc719775919a17dce9de6055376e6406637cf8f2c3fd94958ae660d6b"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "e4e3ddf6fe5125378ffd090374bcaeed96b0ae462cb3cc0104798a3a87f25482"
+hash = "14c9c8de75528a9322c3c96b7f706e5057bc5c1bd339f421f208ff6206f90898"
 metafile = true
 
 [[files]]
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
+hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "c2673f45c3791694d94cf5b6f6041ee463114a45f2761ce3b47a0c200b27b324"
+hash = "16d399c3c931163c59deafe5f7edb3acb9eeb45d7322eec8b68b09e2951c9869"
 metafile = true
 
 [[files]]
@@ -790,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "d3e8ccad3df70178a9e420827a4e85932b8a07c76b24d3fcf42fd4949a304b88"
+hash = "c990f5714760ec3285ac849580581126309a36c3b25ac070695e17b9da315177"
 metafile = true
 
 [[files]]
@@ -800,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "801662811550d6ce015b0c13667e24ce767c4ef244685658f961ac4ea9140ad7"
+hash = "d09e93c1f2bab140cccab638bf8ed47060cc53f29d7ac5fdc2821b6d18c103ba"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/playerrevive.pw.toml"
-hash = "d5e73af5c1b7e710b5977365ecc7f0064e55d49f783f841edabdb15020e98ec4"
+hash = "d04c1157f89b1bbd76aca3c6403ba8b68c8d9fe5856d192806c7c59fcac9a42c"
 metafile = true
 
 [[files]]
@@ -935,12 +935,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "ace0fe03e6615aa6cd3e9d3cf7bd6fd9ede85ecda25f9e1b1b7ac84dcab3abb2"
+hash = "49bccf856ced968a9499d110c302225b7f6d71c415d23f89db44325a72ff638a"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "b8a57664deacb8a52def0f7c7d569c0e26b9d9740aeb90a1267f989e281e0c53"
+hash = "743b6485780687c9736b9db5753cec0c71c761d75eb9c88a62d8a92b9a0a83bc"
 metafile = true
 
 [[files]]
