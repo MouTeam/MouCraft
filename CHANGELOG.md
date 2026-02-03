@@ -1,3 +1,13 @@
+## [1.7.0](https://github.com/MouTeam/MouCraft/compare/v1.6.5...v1.7.0) (2026-02-03)
+
+### ✨ Features
+
+* **neoforge:** update to neoforge 21.1.219 ([67caa51](https://github.com/MouTeam/MouCraft/commit/67caa51110e6ae208d0850a30c1db1efa6c49f0e))
+
+### 🐛 Bug Fixes
+
+* update all mods ([6e10969](https://github.com/MouTeam/MouCraft/commit/6e109698ad4234e22435788120661a61294062d9))
+
 ## [1.6.5](https://github.com/MouTeam/MouCraft/compare/v1.6.4...v1.6.5) (2026-01-19)
 
 ### 🐛 Bug Fixes
