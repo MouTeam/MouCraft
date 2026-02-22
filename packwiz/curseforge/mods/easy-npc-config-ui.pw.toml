@@ -1,13 +1,13 @@
 name = "Easy NPC: Config UI"
-filename = "easy_npc_config_ui-neoforge-1.21.1-6.7.1.jar"
+filename = "easy_npc_config_ui-neoforge-1.21.1-6.8.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "531afd43b3573c038d6ccfea41cc00173abd1ee3"
+hash = "6a1ed939727560f55aa22494a4037fb162523069"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7505471
+file-id = 7646448
 project-id = 1214728
