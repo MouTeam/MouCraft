@@ -1,13 +1,13 @@
 name = "Spice of Life Onion"
-filename = "Spice of Life Onion_NEOFORGE_v1.5.4_mc1.21.1.jar"
+filename = "Spice of Life Onion_NEOFORGE_v1.5.5_mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6d440296ae7b09a2147244423c19a92c22704f9f"
+hash = "0f87ee518add2bc551a731c29918bc41cfc6ddf8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7550320
+file-id = 7653153
 project-id = 878047
