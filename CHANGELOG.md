@@ -1,3 +1,9 @@
+## [1.8.0](https://github.com/MouTeam/MouCraft/compare/v1.7.0...v1.8.0) (2026-02-22)
+
+### ✨ Features
+
+* update all mods ([d25244e](https://github.com/MouTeam/MouCraft/commit/d25244e9489b917eb0fed22f8dc4dce159a49a02))
+
 ## [1.7.0](https://github.com/MouTeam/MouCraft/compare/v1.6.5...v1.7.0) (2026-02-03)
 
 ### ✨ Features
